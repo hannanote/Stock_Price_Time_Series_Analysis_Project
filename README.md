@@ -1,4 +1,4 @@
 ## Stock Price Time Series Analysis
 The stock market is influenced by various factors such as politics, monetary and fiscal policy, industry conditions, the world economy, and financial crises. It has experienced significant fluctuations over the years, including the 2008 financial crisis, the rise of tech stocks due to innovations like Apple's smartphones, and the extreme volatility caused by the 2020 pandemic. Unlike the bond market, stocks carry higher uncertainty as future returns are not guaranteed. However, the higher risks are associated with the potential for higher returns. Therefore, understanding the risk-return tradeoff and analyzing company management strategies are crucial for investors in making investment decisions. In this project, we focused on analyzing stock price movements through a statistical modeling approach known as technical analysis.
 
-### A forecasting algorithm is an information process that seeks to predict future values based on pase and present data.
+##### A forecasting algorithm is an information process that seeks to predict future values based on pase and present data.
