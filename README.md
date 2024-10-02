@@ -6,8 +6,6 @@ The stock market is influenced by various factors such as politics, monetary and
 + Chevron stock from Jan 1962 to May 2023
 + Conducting Time Series Analysis on stock price data
 
-  
-![image](https://github.com/user-attachments/assets/a7443cfc-7492-4735-a1c3-476a678bbe03)
 
 ##### A forecasting algorithm is an information process that seeks to predict future values based on pase and present data.
 
