@@ -9,6 +9,7 @@ The stock market is influenced by various factors such as politics, monetary and
 
 ##### A forecasting algorithm is an information process that seeks to predict future values based on pase and present data.
 
+#### Apple
 
 ![image](https://github.com/user-attachments/assets/12bbc872-3457-443a-873f-db08fe37c2f2)
 
@@ -16,7 +17,13 @@ The stock market is influenced by various factors such as politics, monetary and
 
 ![image](https://github.com/user-attachments/assets/9b53c688-77d7-44d1-a47c-40c5fb5525c8)
 
+#### Chevron
+
 ![image](https://github.com/user-attachments/assets/879015d0-2407-4451-87f4-96bb01e2f16e)
+
+The slow decay of the auto correlation on the ACF, the auto correlation of one at lag 1 on the PACF and the first row filled with xs on the EACF, as well as the ADF test failing to reject the null hypothesis of unit root and the KPSS test rejecting the null hypothesis of stationarity all indicate the series is a random walk
+
+![image](https://github.com/user-attachments/assets/429ed582-8a74-4eaf-8342-855bc9c8cc79)
 
 ![image](https://github.com/user-attachments/assets/27264009-28e1-4698-a58e-abad786e67f3)
 
