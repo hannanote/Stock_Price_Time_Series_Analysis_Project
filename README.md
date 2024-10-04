@@ -23,8 +23,12 @@ The stock market is influenced by various factors such as politics, monetary and
 
 The slow decay of the auto correlation on the ACF, the auto correlation of one at lag 1 on the PACF and the first row filled with xs on the EACF, as well as the ADF test failing to reject the null hypothesis of unit root and the KPSS test rejecting the null hypothesis of stationarity all indicate the series is a random walk
 
-![image](https://github.com/user-attachments/assets/429ed582-8a74-4eaf-8342-855bc9c8cc79)
+
 
 ![image](https://github.com/user-attachments/assets/27264009-28e1-4698-a58e-abad786e67f3)
+
+The model built has very significant coefficients, with very low RMSFE and MAPE, at .22 and 3.5%, respectively, as well as incredibly low AIC and BIC values. The performance of the model can be visually analyzed on the chart on the left, where the blue line represents the predictions produced and the red line represents the true values for the period.
+
+
 
 ![image](https://github.com/user-attachments/assets/1a4290ad-e85a-46d4-82ef-3039596dad54)
