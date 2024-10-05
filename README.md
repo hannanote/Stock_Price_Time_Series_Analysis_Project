@@ -32,3 +32,7 @@ The model built has very significant coefficients, with very low RMSFE and MAPE,
 
 
 ![image](https://github.com/user-attachments/assets/1a4290ad-e85a-46d4-82ef-3039596dad54)
+
+The forecast from the integrated model performed pretty well, with an MSE of .0003 and a MAE of .012.
+
+
