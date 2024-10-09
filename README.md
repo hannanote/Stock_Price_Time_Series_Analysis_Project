@@ -13,9 +13,28 @@ The stock market is influenced by various factors such as politics, monetary and
 
 ![image](https://github.com/user-attachments/assets/12bbc872-3457-443a-873f-db08fe37c2f2)
 
+By differencing the series we can see that it becomes stationary, and the T test rejects the null
+hypothesis of constant mean throughout the series, indicating a random walk with a drift.
+After differencing it, ACF, PACF and EACF as well as ADF and KPSS tests all corroborated a
+stationary behavior. ACF of the differenced series indicates an MA behavior and the significant
+auto correlation at lag 2 indicates it might be of second order. The PACF shows more clearly
+some significant auto correlation at lags 2 and 3, aside from other ones at much higher orders.
+EACF indicates many possible models, and of the many tried, the one with the best performance
+and most conforming residuals was an ARIMA(2, 1, 2) with drift.
+
 ![image](https://github.com/user-attachments/assets/4ef48840-668b-45af-bd1c-58e9d293e095)
 
+The model chosen has very significant coefficients, with very low RMSFE and MAPE, at 0.22 and 3.5%, respectively, as
+well as incredibly low AIC and BIC values, at -76244.66 and -76199.42. The performance of the model can be visually analyzed on the chart on the left, where the blue line represents the predictions produced and the red line represents the true values for the period.
+
+
 ![image](https://github.com/user-attachments/assets/9b53c688-77d7-44d1-a47c-40c5fb5525c8)
+
+The forecasts from the ARMA(2, 2) GARCH(1, 1) model can be seen below, with really low
+MSE and MAE. The integrated model has equal contributions from auto regressive and moving
+average processes, seeing that AR 1 and 2, MA 1 and 2, Alpha 1 and Beta 1 are all very
+significant.
+
 
 #### Chevron
 
