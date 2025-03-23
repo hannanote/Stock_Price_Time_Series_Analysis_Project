@@ -1,5 +1,7 @@
 ## Stock Price Time Series Analysis
 
+### Project Overview
+
 The stock market is a complex system influenced by various factors such as politics, monetary policy, fiscal policy, industry conditions, the global economy, and financial crises, which greatly impact the economic decisions made by investors. However, predicting its volatility is quite difficult, and uncertainty always exists. To address this challenge and help investors make better decisions, I wanted to research stock price prediction. Analyzing stock market data and developing predictive models can provide significant value by helping to create better investment strategies and understand market trends.
 
 In this project, I focused on time series analysis of stock prices and developing forecasting models, applying various techniques to improve prediction accuracy. Specifically, I chose **Apple** and **Chevron** for this analysis because these two companies represent key players in different industries. Apple plays a leading role in the technology sector, continually releasing innovative products such as smartphones and wearable devices. Apple's stock is greatly influenced by various factors related to technological innovation, and predicting and analyzing these changes is crucial in the stock market.
@@ -25,7 +27,7 @@ By analyzing both Apple and Chevron, I aimed to compare and examine the differen
 ##### A forecasting algorithm is an information process that seeks to predict future values based on pase and present data.
 ----------
 
-#### Apple
+### Apple
 
 ![image](https://github.com/user-attachments/assets/12bbc872-3457-443a-873f-db08fe37c2f2)
 
@@ -54,7 +56,7 @@ significant.
 
 ------------
 
-#### Chevron
+### Chevron
 
 ![image](https://github.com/user-attachments/assets/879015d0-2407-4451-87f4-96bb01e2f16e)
 
