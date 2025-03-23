@@ -23,8 +23,7 @@ By analyzing both Apple and Chevron, I aimed to compare and examine the differen
 
 
 ##### A forecasting algorithm is an information process that seeks to predict future values based on pase and present data.
-
-====
+----------
 
 #### Apple
 
@@ -53,7 +52,7 @@ average processes, seeing that AR 1 and 2, MA 1 and 2, Alpha 1 and Beta 1 are al
 significant.
 
 
-=====
+------------
 
 #### Chevron
 
