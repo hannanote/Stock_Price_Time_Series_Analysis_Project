@@ -26,9 +26,9 @@ By analyzing both Apple and Chevron, I aimed to compare and examine the differen
 
 ##### A forecasting algorithm is an information process that seeks to predict future values based on pase and present data.
 
-### Apple
------------
 
+-----------
+### Apple
 ![image](https://github.com/user-attachments/assets/12bbc872-3457-443a-873f-db08fe37c2f2)
 
 By differencing the series we can see that it becomes stationary, and the T test rejects the null
@@ -54,9 +54,9 @@ average processes, seeing that AR 1 and 2, MA 1 and 2, Alpha 1 and Beta 1 are al
 significant.
 
 
-### Chevron
------------
 
+-----------
+### Chevron
 ![image](https://github.com/user-attachments/assets/879015d0-2407-4451-87f4-96bb01e2f16e)
 
 The slow decay of the auto correlation on the ACF, the auto correlation of one at lag 1 on the PACF and the first row filled with xs on the EACF, as well as the ADF test failing to reject the null hypothesis of unit root and the KPSS test rejecting the null hypothesis of stationarity all indicate the series is a random walk
