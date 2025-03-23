@@ -16,9 +16,6 @@ By analyzing both Apple and Chevron, I aimed to compare and examine the differen
 
 따라서, 애플과 셰브론을 분석함으로써 서로 다른 산업에서 주식 가격에 영향을 미치는 다양한 요인들을 비교하고 분석하고자 했습니다. 이 두 기업은 각각 매우 큰 시장 영향력을 가지고 있어, 주식 시장 분석에 대한 깊은 통찰을 얻을 수 있는 좋은 사례가 됩니다.
 
--------
-The stock market is influenced by various factors such as politics, monetary and fiscal policy, industry conditions, the world economy, and financial crises. It has experienced significant fluctuations over the years, including the 2008 financial crisis, the rise of tech stocks due to innovations like Apple's smartphones, and the extreme volatility caused by the 2020 pandemic. Unlike the bond market, stocks carry higher uncertainty as future returns are not guaranteed. However, the higher risks are associated with the potential for higher returns. Therefore, understanding the risk-return tradeoff and analyzing company management strategies are crucial for investors in making investment decisions. In this project, we focused on analyzing stock price movements through a statistical modeling approach known as technical analysis.
-
 + Stock daily price from Yahoo’s finance website
 + Apple stock from Jan 2007 to May 2023
 + Chevron stock from Jan 1962 to May 2023
