@@ -24,6 +24,8 @@ By analyzing both Apple and Chevron, I aimed to compare and examine the differen
 
 ##### A forecasting algorithm is an information process that seeks to predict future values based on pase and present data.
 
+====
+
 #### Apple
 
 ![image](https://github.com/user-attachments/assets/12bbc872-3457-443a-873f-db08fe37c2f2)
@@ -50,6 +52,8 @@ MSE and MAE. The integrated model has equal contributions from auto regressive a
 average processes, seeing that AR 1 and 2, MA 1 and 2, Alpha 1 and Beta 1 are all very
 significant.
 
+
+=====
 
 #### Chevron
 
